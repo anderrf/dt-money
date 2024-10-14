@@ -1,20 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 12000,
-            "createdAt": "2023-09-07T12:03:56.500Z"
-        },
-        {
-            "id": 2,
-            "description": "Lanche",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 25,
-            "createdAt": "2023-09-07T15:03:56.500Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2023-09-07T12:03:56.500Z"
+    },
+    {
+      "id": "2",
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 25,
+      "createdAt": "2023-09-07T15:03:56.500Z"
+    },
+    {
+      "id": "602a",
+      "description": "Novo app lançado",
+      "price": 13,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-14T02:24:28.551Z"
+    },
+    {
+      "id": "08fc",
+      "description": "Novo app lançado",
+      "price": 13,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-14T02:24:31.380Z"
+    },
+    {
+      "id": "f74e",
+      "description": "Novo app lançado",
+      "price": 18,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-14T02:24:36.659Z"
+    },
+    {
+      "id": "e5bd",
+      "description": "Novo app lançado",
+      "price": 18,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-14T02:24:36.843Z"
+    },
+    {
+      "id": "ebfd",
+      "description": "Aluguel",
+      "price": 1500,
+      "category": "Custo",
+      "type": "outcome",
+      "createdAt": "2024-10-14T03:05:30.666Z"
+    }
+  ]
 }
